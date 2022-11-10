@@ -1,4 +1,4 @@
-module github.com/blockloop/scan
+module github.com/ceebydith/scan
 
 go 1.17
 

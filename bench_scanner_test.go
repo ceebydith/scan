@@ -3,7 +3,7 @@ package scan_test
 import (
 	"testing"
 
-	"github.com/blockloop/scan"
+	"github.com/ceebydith/scan"
 	"github.com/stretchr/testify/assert"
 )
 
